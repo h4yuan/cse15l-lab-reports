@@ -51,7 +51,7 @@ In this line, I logged on the server and printed the working directory and exit,
 
 Using the upper arrow key to re-run past commands usually only includes two keystrokes "upper arrow"+"enter" compared to typeing the whole command `ssh cs15lwi22ajn@ieng6.ucsd.edu` which needs 32 keystrokes.
 
-Writing commond in quotes at the end of `ssh` log in command to run the commond in quotes on remote server and then exit can save 2 keystrokes.
+Writing command in quotes at the end of `ssh` log in command to run the command in quotes on remote server and then exit can save 3 keystrokes.
 
 
 
