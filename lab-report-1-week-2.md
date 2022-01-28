@@ -45,9 +45,15 @@ class WhereAmI {
 In this step, I utilized the `ssh-keygen` program, where two files are created in this process: `id_rsa` to save the private password and `id_rsa.pub` to save the public password. Then I `scp` the public key to the `.ssh` directory on the server. After doing these, I could log into my account on termial without entering password since it has been stored in my course specific account on the server.
 ![Image](7.png)
 ## Step 6: Optimizing Remote Running
-I tried a few ways to optimize the remote running such as using the upper arrow key on the keyboard to get the past commands or using quotation marks in the same line with the `ssh` log in command so that both commands can run at the same time. 
+I tried a few ways to optimize the remote running such as using the upper arrow key on the keyboard to get the past commands or writing commond in quotes at the end of `ssh` log in command to run the commond in quotes on remote server and then exit. 
 ![Image](8.png)
-In this line, I logged on the server and printed the working directory, which basically combine two seprate line of code into one.
+In this line, I logged on the server and printed the working directory and exit, which basically combine two seprate line of code into one.
+
+Using the upper arrow key to re-run past commands usually only includes two keystrokes "upper arrow"+"enter" compared to typeing the whole command `ssh cs15lwi22ajn@ieng6.ucsd.edu` which needs 32 keystrokes.
+
+Writing commond in quotes at the end of `ssh` log in command to run the commond in quotes on remote server and then exit can save 2 keystrokes.
+
+
 
 
 
