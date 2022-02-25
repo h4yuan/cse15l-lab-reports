@@ -6,4 +6,4 @@
 [Lab-report-3-week-6](https://h4yuan.github.io/cse15l-lab-reports/lab-report-3/lab-report-3-week-6.html)
 
 
-[Lab-report-4-week-8](https://h4yuan.github.io/cse15l-lab-reports/lab-report-3/lab-report-4-week-8.html)
+[Lab-report-4-week-8](https://h4yuan.github.io/cse15l-lab-reports/lab-report-4/lab-report-4-week-8.html)
